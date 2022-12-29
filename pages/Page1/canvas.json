@@ -1870,7 +1870,7 @@
                   "key": "onRateChanged"
                 }
               ],
-              "leftColumn": 21,
+              "leftColumn": 22,
               "dynamicBindingPathList": [
                 {
                   "key": "activeColor"
@@ -1880,7 +1880,7 @@
               "key": "3kdzyha4x4",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 41,
+              "rightColumn": 42,
               "inactiveColor": "#E0DEDE",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "ih4jpz1lr8",
